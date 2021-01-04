@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850119730068",
+    "firebase_url": "https://instareactnative-ac8ec.firebaseio.com",
+    "project_id": "instareactnative-ac8ec",
+    "storage_bucket": "instareactnative-ac8ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850119730068:android:8e38459201e6b720d12581",
+        "android_client_info": {
+          "package_name": "com.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850119730068-3medhi0a5nc7biis079n51kf35kdc8q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0uIPMb7IJgDSr3V4qaLoWmsk0wgtETI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850119730068-3medhi0a5nc7biis079n51kf35kdc8q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
